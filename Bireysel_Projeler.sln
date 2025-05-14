@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otel_Rezervasyon_Sistemi", "Otel_Rezervasyon_Sistemi\Otel_Rezervasyon_Sistemi.csproj", "{4E0245FC-3E8C-4B95-A20B-A0B6319EB963}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hastane_Yonetim_Sistemi", "Hastane_Yonetim_Sistemi\Hastane_Yonetim_Sistemi.csproj", "{9F1DD3A9-1022-4F6C-A635-18AE7983DB6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank_otomation", "Bank_otomation\Bank_otomation.csproj", "{8B167C95-B4D0-4C1C-A92B-C6C1E62EEBF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kutuphane_Yonetim", "Kutuphane_Yonetim\Kutuphane_Yonetim.csproj", "{8B6E641E-6B61-45D8-903B-3FB4BF6C5C93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dövüs_Sistemi", "Dövüs_Sistemi\Dövüs_Sistemi.csproj", "{489C3874-594D-43B7-AAA4-D7498506ACD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E0245FC-3E8C-4B95-A20B-A0B6319EB963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0245FC-3E8C-4B95-A20B-A0B6319EB963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0245FC-3E8C-4B95-A20B-A0B6319EB963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0245FC-3E8C-4B95-A20B-A0B6319EB963}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F1DD3A9-1022-4F6C-A635-18AE7983DB6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F1DD3A9-1022-4F6C-A635-18AE7983DB6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F1DD3A9-1022-4F6C-A635-18AE7983DB6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F1DD3A9-1022-4F6C-A635-18AE7983DB6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B167C95-B4D0-4C1C-A92B-C6C1E62EEBF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B167C95-B4D0-4C1C-A92B-C6C1E62EEBF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B167C95-B4D0-4C1C-A92B-C6C1E62EEBF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B167C95-B4D0-4C1C-A92B-C6C1E62EEBF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B6E641E-6B61-45D8-903B-3FB4BF6C5C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B6E641E-6B61-45D8-903B-3FB4BF6C5C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B6E641E-6B61-45D8-903B-3FB4BF6C5C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B6E641E-6B61-45D8-903B-3FB4BF6C5C93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{489C3874-594D-43B7-AAA4-D7498506ACD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{489C3874-594D-43B7-AAA4-D7498506ACD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{489C3874-594D-43B7-AAA4-D7498506ACD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{489C3874-594D-43B7-AAA4-D7498506ACD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A04CDBD7-8DAD-494E-B8C5-893BCFC51219}
+	EndGlobalSection
+EndGlobal

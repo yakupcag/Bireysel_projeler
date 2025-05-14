@@ -1,0 +1,7 @@
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Araba_kiralama\bin\Debug\Araba_kiralama.exe.config
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Araba_kiralama\bin\Debug\Araba_kiralama.exe
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Araba_kiralama\bin\Debug\Araba_kiralama.pdb
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Araba_kiralama\obj\Debug\Araba_kiralama.csproj.AssemblyReference.cache
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Araba_kiralama\obj\Debug\Araba_kiralama.csproj.CoreCompileInputs.cache
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Araba_kiralama\obj\Debug\Araba_kiralama.exe
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Araba_kiralama\obj\Debug\Araba_kiralama.pdb

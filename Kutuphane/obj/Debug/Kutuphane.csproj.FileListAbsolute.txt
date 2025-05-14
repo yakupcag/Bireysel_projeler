@@ -1,0 +1,7 @@
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Kutuphane\bin\Debug\Kutuphane.exe.config
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Kutuphane\bin\Debug\Kutuphane.exe
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Kutuphane\bin\Debug\Kutuphane.pdb
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Kutuphane\obj\Debug\Kutuphane.csproj.AssemblyReference.cache
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Kutuphane\obj\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Kutuphane\obj\Debug\Kutuphane.exe
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Kutuphane\obj\Debug\Kutuphane.pdb

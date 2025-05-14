@@ -1,0 +1,7 @@
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\BankOtomation\obj\Debug\BankOtomation.csproj.AssemblyReference.cache
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\BankOtomation\obj\Debug\BankOtomation.csproj.CoreCompileInputs.cache
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\BankOtomation\bin\Debug\BankOtomation.exe.config
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\BankOtomation\bin\Debug\BankOtomation.exe
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\BankOtomation\bin\Debug\BankOtomation.pdb
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\BankOtomation\obj\Debug\BankOtomation.exe
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\BankOtomation\obj\Debug\BankOtomation.pdb

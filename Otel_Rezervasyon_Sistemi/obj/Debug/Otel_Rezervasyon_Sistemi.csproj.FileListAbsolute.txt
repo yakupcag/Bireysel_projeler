@@ -1,0 +1,7 @@
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Otel_Rezervasyon_Sistemi\obj\Debug\Otel_Rezervasyon_Sistemi.csproj.AssemblyReference.cache
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Otel_Rezervasyon_Sistemi\obj\Debug\Otel_Rezervasyon_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Otel_Rezervasyon_Sistemi\bin\Debug\Otel_Rezervasyon_Sistemi.exe.config
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Otel_Rezervasyon_Sistemi\bin\Debug\Otel_Rezervasyon_Sistemi.exe
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Otel_Rezervasyon_Sistemi\bin\Debug\Otel_Rezervasyon_Sistemi.pdb
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Otel_Rezervasyon_Sistemi\obj\Debug\Otel_Rezervasyon_Sistemi.exe
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Otel_Rezervasyon_Sistemi\obj\Debug\Otel_Rezervasyon_Sistemi.pdb

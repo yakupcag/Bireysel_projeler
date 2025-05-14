@@ -1,0 +1,7 @@
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Dövüs_Sistemi\bin\Debug\Dövüs_Sistemi.exe.config
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Dövüs_Sistemi\bin\Debug\Dövüs_Sistemi.exe
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Dövüs_Sistemi\bin\Debug\Dövüs_Sistemi.pdb
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Dövüs_Sistemi\obj\Debug\Dövüs_Sistemi.csproj.AssemblyReference.cache
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Dövüs_Sistemi\obj\Debug\Dövüs_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Dövüs_Sistemi\obj\Debug\Dövüs_Sistemi.exe
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Dövüs_Sistemi\obj\Debug\Dövüs_Sistemi.pdb

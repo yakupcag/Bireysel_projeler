@@ -1,0 +1,7 @@
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Kutuphane_Yonetim\bin\Debug\Kutuphane_Yonetim.exe.config
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Kutuphane_Yonetim\bin\Debug\Kutuphane_Yonetim.exe
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Kutuphane_Yonetim\bin\Debug\Kutuphane_Yonetim.pdb
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Kutuphane_Yonetim\obj\Debug\Kutuphane_Yonetim.csproj.AssemblyReference.cache
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Kutuphane_Yonetim\obj\Debug\Kutuphane_Yonetim.csproj.CoreCompileInputs.cache
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Kutuphane_Yonetim\obj\Debug\Kutuphane_Yonetim.exe
+C:\Users\Yakup Cağ\source\repos\Bireysel_Projeler\Kutuphane_Yonetim\obj\Debug\Kutuphane_Yonetim.pdb
